@@ -54,4 +54,4 @@ License
 -------
 This project is licensed under the MIT License.
 
-![alt text](https://github.com/dineshpiyasamara/LaptopPricePredictor/blob/master/Capture.PNG?raw=true)
+![alt text](https://github.com/RavinduTharanga/LaptopPricePredictor/edit/main/LaptopPricePredictor-master/Screenshot 2025-05-22 135225.png)
