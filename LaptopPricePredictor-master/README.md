@@ -14,18 +14,6 @@ Tech Stack
 ----------
 - Backend: Python, Flask
 - Machine Learning: scikit-learn, joblib, NumPy
-- Deployment: Gunicorn
-- Web Templating: Jinja2, HTML
-
-Project Structure
------------------
-app.py                # Main application file
-requirements.txt      # Python dependencies
-Procfile              # For deployment
-templates/
-    index.html        # HTML frontend (must be added)
-model/
-    predictor.pickle  # Trained ML model (must be added)
 
 Setup Instructions
 ------------------
@@ -45,10 +33,6 @@ Setup Instructions
 5. Run the application:
    python app.py
 
-Deployment
-----------
-Use gunicorn for production deployment:
-   gunicorn app:app
 
 License
 -------
